@@ -106,6 +106,6 @@ Found an error or want to suggest a topic or problem? Open an Issue or submit a 
 
 ⚠️ Disclaimer
 
-These materials are for educational use and follow the VTU Scheme 2022 BCS702 syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
+These materials are for educational use and follow the VTU Scheme 2022 BCS703 syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
 
 ⭐ If this helped you, please star the repository and share it with your classmates!
