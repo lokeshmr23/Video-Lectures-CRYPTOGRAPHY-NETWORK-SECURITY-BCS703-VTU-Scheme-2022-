@@ -9,7 +9,7 @@
 | M1-L5 | Hill cipher| [Watch on YouTube](https://youtu.be/pgzi5boM_ds?si=YmD-qypgwK8oDYZn). |
 | M1-L6 | Polyalphabetic ciphers | [Watch on YouTube](https://youtu.be/z9YZEBRROao). |
 | M1-L7 | Steganography| [Watch on YouTube](https://youtu.be/EVh3QgiIzms). |
-| M1-L8 | Traditional block cipher structure| [Watch on YouTube](). |
+| M1-L8 | Traditional block cipher structure| [Watch on YouTube](https://youtu.be/sadiWJ-NcKU). |
 | M1-L9 | Data Encryption Standard (DES)| [Watch on YouTube](). |
 | M1-L10 | Strength of DES| [Watch on YouTube](). |
                                                                  
