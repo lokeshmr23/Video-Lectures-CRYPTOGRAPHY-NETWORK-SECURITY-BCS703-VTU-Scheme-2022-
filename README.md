@@ -23,7 +23,7 @@
 | M1-L3 | Principles of public key cryptosystems| [Watch on YouTube](https://youtu.be/En5uvgP_M3E). |
 | M1-L4 | Public key cryptanalysis| [Watch on YouTube](https://youtu.be/_40zFEVFZTI). |
 | M1-L5 | The RSA algorithm| [Watch on YouTube](https://youtu.be/gexJqpwuYko). |
-| M1-L6 | RSA computational aspects | [Watch on YouTube](). |
+| M1-L6 | RSA computational aspects | [Watch on YouTube](https://youtu.be/hRyzJ8XEalU). |
 | M1-L7 | The security of RSA| [Watch on YouTube](). |
 | M1-L8 | Diffie-Hellman key exchange| [Watch on YouTube](). |
 | M1-L9 | Elliptic curve cryptography| [Watch on YouTube](). |
