@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | M1-L1 | Pseudorandom number generators | [Watch on YouTube](https://youtu.be/VtqYCgyIla0) |
 | M1-L2 | Blum Blum Shub generator| [Watch on YouTube](https://youtu.be/xxC6KPwd-SA) |
-| M1-L3 | Principles of public key cryptosystems| [Watch on YouTube](). |
+| M1-L3 | Principles of public key cryptosystems| [Watch on YouTube](https://youtu.be/En5uvgP_M3E). |
 | M1-L4 | Public key cryptanalysis| [Watch on YouTube](). |
 | M1-L5 | The RSA algorithm| [Watch on YouTube](). |
 | M1-L6 | RSA computational aspects | [Watch on YouTube](). |
