@@ -11,7 +11,7 @@
 | M1-L7 | Steganography| [Watch on YouTube](https://youtu.be/EVh3QgiIzms). |
 | M1-L8 | Traditional block cipher structure| [Watch on YouTube](https://youtu.be/sadiWJ-NcKU). |
 | M1-L9 | Data Encryption Standard (DES)| [Watch on YouTube](https://youtu.be/XaA4u91w1RY). |
-| M1-L10 | Strength of DES| [Watch on YouTube](). |
+| M1-L10 | Strength of DES| [Watch on YouTube](https://youtu.be/p0NS_70MoaQ). |
                                                                  
   ### Module 2: Pseudorandom Numbers, Public Key Cryptography, RSA, Diffie-Hellman and ECC   (10 hours | CO2)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
