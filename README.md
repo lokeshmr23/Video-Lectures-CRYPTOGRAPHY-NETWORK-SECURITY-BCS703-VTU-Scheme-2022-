@@ -26,7 +26,7 @@
 | M1-L6 | RSA computational aspects | [Watch on YouTube](https://youtu.be/hRyzJ8XEalU). |
 | M1-L7 | The security of RSA| [Watch on YouTube](https://youtu.be/MvV8HHe5bM0). |
 | M1-L8 | Diffie-Hellman key exchange| [Watch on YouTube](https://youtu.be/AuDvTNzFwDk?si=VhMxqasdKI5Ni3zZ). |
-| M1-L9 | Elliptic curve cryptography| [Watch on YouTube](https://youtu.be/fy31vlxKoJw). |
+| M1-L9 | Elliptic curve cryptography| [Watch on YouTube](https://youtu.be/xUnlbcKq4bk). |
 | M1-L10 | Security of elliptic curve cryptographyS| [Watch on YouTube](https://youtu.be/5xk8m55iJyE). |
   
   ### Module 3: Hash Functions, Key Management and Distribution   (10 hours | CO3)
