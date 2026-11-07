@@ -35,7 +35,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M1-L1 | Applications of cryptographic hash functions | [Watch on YouTube](https://youtu.be/LZrrRMmpAVw) |
-| M1-L2 | Applications of cryptographic hash functions (continued)| [Watch on YouTube]() |
+| M1-L2 | Applications of cryptographic hash functions (continued)| [Watch on YouTube](https://youtu.be/vj-ndL7xsmY) |
 | M1-L3 | Two simple hash functions| [Watch on YouTube](). |
 | M1-L4 | Hash function practice and comparison| [Watch on YouTube](). |
 | M1-L5 | Key management and distribution| [Watch on YouTube](). |
