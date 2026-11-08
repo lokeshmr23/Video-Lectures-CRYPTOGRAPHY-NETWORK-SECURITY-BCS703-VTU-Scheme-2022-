@@ -38,7 +38,7 @@
 | M1-L2 | Applications of cryptographic hash functions (continued)| [Watch on YouTube](https://youtu.be/vj-ndL7xsmY) |
 | M1-L3 | Two simple hash functions| [Watch on YouTube](https://youtu.be/oY5FdfTiSv4). |
 | M1-L4 | Hash function practice and comparison| [Watch on YouTube](https://youtu.be/ZsQAME0HhVI). |
-| M1-L5 | Key management and distribution| [Watch on YouTube](). |
+| M1-L5 | Key management and distribution| [Watch on YouTube](https://youtu.be/YYuuI3dEOhE). |
 | M1-L6 | Symmetric key distribution using symmetric encryption (continued) | [Watch on YouTube](). |
 | M1-L7 | Symmetric key distribution using asymmetric encryption| [Watch on YouTube](). |
 | M1-L8 | Distribution of public keys| [Watch on YouTube](). |
