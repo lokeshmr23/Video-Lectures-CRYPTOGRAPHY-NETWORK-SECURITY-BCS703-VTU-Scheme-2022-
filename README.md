@@ -40,7 +40,7 @@
 | M1-L4 | Hash function practice and comparison| [Watch on YouTube](https://youtu.be/ZsQAME0HhVI). |
 | M1-L5 | Key management and distribution| [Watch on YouTube](https://youtu.be/YYuuI3dEOhE). |
 | M1-L6 | Symmetric key distribution using symmetric encryption (continued) | [Watch on YouTube](https://youtu.be/Y9NdkFdI5nw). |
-| M1-L7 | Symmetric key distribution using asymmetric encryption| [Watch on YouTube](). |
+| M1-L7 | Symmetric key distribution using asymmetric encryption| [Watch on YouTube](https://youtu.be/N22QodH-Uqo). |
 | M1-L8 | Distribution of public keys| [Watch on YouTube](). |
 | M1-L9 | X.509 certificates| [Watch on YouTube](). |
 | M1-L10 | Public key infrastructures| [Watch on YouTube](). |
