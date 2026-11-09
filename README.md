@@ -59,7 +59,7 @@
 | M1-L7 | Transport layer security | [Watch on YouTube](https://youtu.be/CUSPtdWhyQE). |
 | M1-L8 | Email threats and comprehensive email security| [Watch on YouTube](https://youtu.be/T38AuSf3PlM). |
 | M1-L9 | S/MIME| [Watch on YouTube](https://youtu.be/gnrBCTDFkYs). |
-| M1-L10 | Pretty Good Privacy (PGP) | [Watch on YouTube](). |
+| M1-L10 | Pretty Good Privacy (PGP) | [Watch on YouTube](https://youtu.be/kcBL2ED7mcQ). |
   
   ### Module 5: Domain Keys Identified Mail and IP Security (10 hours | CO5)
 **Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
