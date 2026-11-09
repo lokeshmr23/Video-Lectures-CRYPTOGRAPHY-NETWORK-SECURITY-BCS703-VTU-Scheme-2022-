@@ -52,8 +52,8 @@
 | --- | --- | --- |
 | M1-L1 | Remote user authentication principles | [Watch on YouTube](https://youtu.be/mc905JpLE-w) |
 | M1-L2 | Remote user authentication principles (continued)| [Watch on YouTube](https://youtu.be/9GVyNA659ro) |
-| M1-L3 | Kerberos| [Watch on YouTube](). |
-| M1-L4 | Kerberos (continued) | [Watch on YouTube](). |
+| M1-L3 | Kerberos| [Watch on YouTube](https://youtu.be/Fu6zfRpf870). |
+| M1-L4 | Kerberos (continued) | [Watch on YouTube](https://youtu.be/1ATBa94eupU). |
 | M1-L5 | Remote user authentication using asymmetric encryption| [Watch on YouTube](). |
 | M1-L6 | Web security considerations | [Watch on YouTube](). |
 | M1-L7 | Transport layer security | [Watch on YouTube](). |
