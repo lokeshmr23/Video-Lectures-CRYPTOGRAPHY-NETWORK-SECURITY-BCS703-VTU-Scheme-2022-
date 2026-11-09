@@ -50,7 +50,7 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M1-L1 | Remote user authentication principles | [Watch on YouTube]() |
+| M1-L1 | Remote user authentication principles | [Watch on YouTube](https://youtu.be/mc905JpLE-w) |
 | M1-L2 | Remote user authentication principles (continued)| [Watch on YouTube]() |
 | M1-L3 | Kerberos| [Watch on YouTube](). |
 | M1-L4 | Kerberos (continued) | [Watch on YouTube](). |
