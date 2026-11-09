@@ -55,7 +55,7 @@
 | M1-L3 | Kerberos| [Watch on YouTube](https://youtu.be/Fu6zfRpf870). |
 | M1-L4 | Kerberos (continued) | [Watch on YouTube](https://youtu.be/1ATBa94eupU). |
 | M1-L5 | Remote user authentication using asymmetric encryption| [Watch on YouTube](https://youtu.be/1-FeRwQI-_g). |
-| M1-L6 | Web security considerations | [Watch on YouTube](). |
+| M1-L6 | Web security considerations | [Watch on YouTube](https://youtu.be/oNlqifzx7ZA). |
 | M1-L7 | Transport layer security | [Watch on YouTube](). |
 | M1-L8 | Email threats and comprehensive email security| [Watch on YouTube](). |
 | M1-L9 | S/MIME| [Watch on YouTube](). |
