@@ -66,8 +66,8 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M1-L1 | Domain Keys Identified Mail (DKIM) | [Watch on YouTube]() |
-| M1-L2 | DKIM functional flow| [Watch on YouTube]() |
+| M1-L1 | Domain Keys Identified Mail (DKIM) | [Watch on YouTube](https://youtu.be/gPROCK5gpeQ) |
+| M1-L2 | DKIM functional flow| [Watch on YouTube](https://youtu.be/AWUqbN_tdgU) |
 | M1-L3 | IP security overview| [Watch on YouTube](). |
 | M1-L4 | IPsec services | [Watch on YouTube](). |
 | M1-L5 | IP security policy| [Watch on YouTube](). |
@@ -75,7 +75,7 @@
 | M1-L7 | ESP transport and tunnel modes | [Watch on YouTube](). |
 | M1-L8 | Combining security associations | [Watch on YouTube](). |
 | M1-L9 | Internet key exchange| [Watch on YouTube](). |
-  | M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](). |
+| M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](). |
   
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES CRYPTOGRAPHY & NETWORK SECURITY Semester VII | Course Code: BCS703 | Credits: 04
 
