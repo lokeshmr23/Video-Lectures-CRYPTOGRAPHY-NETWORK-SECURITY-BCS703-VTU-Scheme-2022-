@@ -1,111 +1,43 @@
-### Module 1: Classical Encryption and Block Ciphers   (10 hours | CO1)
+# BCS703 — Cryptography & Network Security (VTU Scheme 2022)
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | A model for network security | [Watch on YouTube](https://youtu.be/1KvpwHk8O94) |
-| M1-L2 | Symmetric cipher model| [Watch on YouTube](https://youtu.be/EYzvEJtoUF8) |
-| M1-L3 | Substitution ciphers| [Watch on YouTube](https://youtu.be/m-2eboMjqA8). |
-| M1-L4 | Playfair cipher| [Watch on YouTube](https://youtu.be/uwX0DcOwRm8). |
-| M1-L5 | Hill cipher| [Watch on YouTube](https://youtu.be/pgzi5boM_ds?si=YmD-qypgwK8oDYZn). |
-| M1-L6 | Polyalphabetic ciphers | [Watch on YouTube](https://youtu.be/z9YZEBRROao). |
-| M1-L7 | Steganography| [Watch on YouTube](https://youtu.be/EVh3QgiIzms). |
-| M1-L8 | Traditional block cipher structure| [Watch on YouTube](https://youtu.be/sadiWJ-NcKU). |
-| M1-L9 | Data Encryption Standard (DES)| [Watch on YouTube](https://youtu.be/XaA4u91w1RY). |
-| M1-L10 | Strength of DES| [Watch on YouTube](https://youtu.be/p0NS_70MoaQ). |
-                                                                 
-  ### Module 2: Pseudorandom Numbers, Public Key Cryptography, RSA, Diffie-Hellman and ECC   (10 hours | CO2)
+Promotional site for the free module-wise video lecture series.
 
-  
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Pseudorandom number generators | [Watch on YouTube](https://youtu.be/VtqYCgyIla0) |
-| M1-L2 | Blum Blum Shub generator| [Watch on YouTube](https://youtu.be/xxC6KPwd-SA) |
-| M1-L3 | Principles of public key cryptosystems| [Watch on YouTube](https://youtu.be/En5uvgP_M3E). |
-| M1-L4 | Public key cryptanalysis| [Watch on YouTube](https://youtu.be/_40zFEVFZTI). |
-| M1-L5 | The RSA algorithm| [Watch on YouTube](https://youtu.be/gexJqpwuYko). |
-| M1-L6 | RSA computational aspects | [Watch on YouTube](https://youtu.be/hRyzJ8XEalU). |
-| M1-L7 | The security of RSA| [Watch on YouTube](https://youtu.be/MvV8HHe5bM0). |
-| M1-L8 | Diffie-Hellman key exchange| [Watch on YouTube](https://youtu.be/AuDvTNzFwDk?si=VhMxqasdKI5Ni3zZ). |
-| M1-L9 | Elliptic curve cryptography| [Watch on YouTube](https://youtu.be/xUnlbcKq4bk). |
-| M1-L10 | Security of elliptic curve cryptographyS| [Watch on YouTube](https://youtu.be/5xk8m55iJyE). |
-  
-  ### Module 3: Hash Functions, Key Management and Distribution   (10 hours | CO3)
+## Files
 
+| File | Purpose |
+| --- | --- |
+| `index.html` | The whole site — one self-contained file (inline CSS + JS) |
+| `dr_lokesh_professor_new.png` | Portrait used in the hero and the teacher section |
+| `render.yaml` | Render Blueprint (static site + cache/security headers) |
+| `robots.txt` | Search-engine crawl rules |
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Applications of cryptographic hash functions | [Watch on YouTube](https://youtu.be/LZrrRMmpAVw) |
-| M1-L2 | Applications of cryptographic hash functions (continued)| [Watch on YouTube](https://youtu.be/vj-ndL7xsmY) |
-| M1-L3 | Two simple hash functions| [Watch on YouTube](https://youtu.be/oY5FdfTiSv4). |
-| M1-L4 | Hash function practice and comparison| [Watch on YouTube](https://youtu.be/ZsQAME0HhVI). |
-| M1-L5 | Key management and distribution| [Watch on YouTube](https://youtu.be/YYuuI3dEOhE). |
-| M1-L6 | Symmetric key distribution using symmetric encryption (continued) | [Watch on YouTube](https://youtu.be/Y9NdkFdI5nw). |
-| M1-L7 | Symmetric key distribution using asymmetric encryption| [Watch on YouTube](https://youtu.be/N22QodH-Uqo). |
-| M1-L8 | Distribution of public keys| [Watch on YouTube](https://youtu.be/S4JiJZl22Us). |
-| M1-L9 | X.509 certificates| [Watch on YouTube](https://youtu.be/CDeCN1D0FBk). |
-| M1-L10 | Public key infrastructures| [Watch on YouTube](https://youtu.be/KS0kSPt4OAQ). |
-  
-  ### Module 4: User Authentication, Web Security and Email Security  (10 hours | CO4)
+Keep `index.html` and `dr_lokesh_professor_new.png` side by side — the HTML
+references the photo as `./dr_lokesh_professor_new.png`.
 
+## Run locally
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Remote user authentication principles | [Watch on YouTube](https://youtu.be/mc905JpLE-w) |
-| M1-L2 | Remote user authentication principles (continued)| [Watch on YouTube](https://youtu.be/9GVyNA659ro) |
-| M1-L3 | Kerberos| [Watch on YouTube](https://youtu.be/Fu6zfRpf870). |
-| M1-L4 | Kerberos (continued) | [Watch on YouTube](https://youtu.be/1ATBa94eupU). |
-| M1-L5 | Remote user authentication using asymmetric encryption| [Watch on YouTube](https://youtu.be/1-FeRwQI-_g). |
-| M1-L6 | Web security considerations | [Watch on YouTube](https://youtu.be/oNlqifzx7ZA). |
-| M1-L7 | Transport layer security | [Watch on YouTube](https://youtu.be/CUSPtdWhyQE). |
-| M1-L8 | Email threats and comprehensive email security| [Watch on YouTube](https://youtu.be/T38AuSf3PlM). |
-| M1-L9 | S/MIME| [Watch on YouTube](https://youtu.be/gnrBCTDFkYs). |
-| M1-L10 | Pretty Good Privacy (PGP) | [Watch on YouTube](https://youtu.be/kcBL2ED7mcQ). |
-  
-  ### Module 5: Domain Keys Identified Mail and IP Security (10 hours | CO5)
+```bash
+python3 -m http.server 8000
+# open http://localhost:8000
+```
 
+Open it through a server, not by double-clicking the file: YouTube refuses to
+embed video on `file://` pages. (The player detects this and opens YouTube in a
+new tab instead, but the in-page player only works over http/https.)
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Domain Keys Identified Mail (DKIM) | [Watch on YouTube](https://youtu.be/gPROCK5gpeQ) |
-| M1-L2 | DKIM functional flow| [Watch on YouTube](https://youtu.be/AWUqbN_tdgU) |
-| M1-L3 | IP security overview| [Watch on YouTube](https://youtu.be/vTncQ8-_VdM). |
-| M1-L4 | IPsec services | [Watch on YouTube](https://youtu.be/xxqN11VIO8U). |
-| M1-L5 | IP security policy| [Watch on YouTube](https://youtu.be/2IVhaUzZG20). |
-| M1-L6 | Encapsulating Security Payload (ESP) | [Watch on YouTube](https://youtu.be/AcjL8v5-NW4). |
-| M1-L7 | ESP transport and tunnel modes | [Watch on YouTube](https://youtu.be/E7WMo9eBnNU). |
-| M1-L8 | Combining security associations | [Watch on YouTube](https://youtu.be/zeORhDT_T-M). |
-| M1-L9 | Internet key exchange| [Watch on YouTube](https://youtu.be/sVNFeuQlocE). |
-| M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](https://youtu.be/G4J4uRDvADo). |
-  
-More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES CRYPTOGRAPHY & NETWORK SECURITY Semester VII | Course Code: BCS703 | Credits: 04
+## Deploy to Render
 
-🚀 How to Use This Repository
+See `DEPLOY-RENDER.md` in the parent folder, or in short:
 
-Pick a module from the index above and watch the lectures in session order.
+1. Push this folder to a GitHub repository.
+2. Render Dashboard -> New -> Blueprint -> pick the repo -> Apply.
+3. Your site appears at https://bcs703-lectures.onrender.com
 
-Practise the tutorial problems and try the same constructions.
+## Editing content
 
-Check the mapped CO and Bloom level of each topic to focus your exam preparation.
-
-Revisit the module revision and quiz session before each IA test and the SEE.
-
-🤝 Contributing
-
-Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
-
-🔗 Connect
-▶️ YouTube: [https://www.youtube.com/@Dr.LokeshMR]
-
-💼 LinkedIn: [https://www.linkedin.com/in/lokesh-m-r-b6880b169/]
-
-📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
-
-📢 Telegram: [https://t.me/vtucreat]
-
-💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
-
-⚠️ Disclaimer
-
-These materials are for educational use and follow the VTU Scheme 2022 BCS703 syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
-
-⭐ If this helped you, please star the repository and share it with your classmates!
+- Lecture links: `const MODULES = [...]` near the top of the `<script>` block.
+  An empty `url: ""` renders a greyed-out "Coming soon" card automatically.
+- Study planner maths: `const PLANNER = { multiplier: 3, ... }` just below it.
+- Placeholders: search the HTML for `[Add` (institution, VTU rules, etc.).
+- "Last updated" date: search for `datetime="2026-11-10"`.
+- Canonical + Open Graph URLs: search for `bcs703-lectures.onrender.com`.
