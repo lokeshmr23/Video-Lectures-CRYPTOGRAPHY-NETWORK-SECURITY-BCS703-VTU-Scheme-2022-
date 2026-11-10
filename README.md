@@ -14,7 +14,7 @@
 | M1-L10 | Strength of DES| [Watch on YouTube](https://youtu.be/p0NS_70MoaQ). |
                                                                  
   ### Module 2: Pseudorandom Numbers, Public Key Cryptography, RSA, Diffie-Hellman and ECC   (10 hours | CO2)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
   
 | Lecture | Topic | Video |
 | --- | --- | --- |
@@ -30,7 +30,7 @@
 | M1-L10 | Security of elliptic curve cryptographyS| [Watch on YouTube](https://youtu.be/5xk8m55iJyE). |
   
   ### Module 3: Hash Functions, Key Management and Distribution   (10 hours | CO3)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
@@ -46,7 +46,7 @@
 | M1-L10 | Public key infrastructures| [Watch on YouTube](https://youtu.be/KS0kSPt4OAQ). |
   
   ### Module 4: User Authentication, Web Security and Email Security  (10 hours | CO4)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
