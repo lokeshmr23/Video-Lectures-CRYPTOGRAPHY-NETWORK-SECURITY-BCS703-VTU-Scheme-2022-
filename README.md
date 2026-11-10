@@ -62,7 +62,7 @@
 | M1-L10 | Pretty Good Privacy (PGP) | [Watch on YouTube](https://youtu.be/kcBL2ED7mcQ). |
   
   ### Module 5: Domain Keys Identified Mail and IP Security (10 hours | CO5)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
@@ -74,7 +74,7 @@
 | M1-L6 | Encapsulating Security Payload (ESP) | [Watch on YouTube](https://youtu.be/AcjL8v5-NW4). |
 | M1-L7 | ESP transport and tunnel modes | [Watch on YouTube](https://youtu.be/E7WMo9eBnNU). |
 | M1-L8 | Combining security associations | [Watch on YouTube](https://youtu.be/zeORhDT_T-M). |
-| M1-L9 | Internet key exchange| [Watch on YouTube](). |
+| M1-L9 | Internet key exchange| [Watch on YouTube](https://youtu.be/sVNFeuQlocE). |
 | M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](). |
   
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES CRYPTOGRAPHY & NETWORK SECURITY Semester VII | Course Code: BCS703 | Credits: 04
