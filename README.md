@@ -75,7 +75,7 @@
 | M1-L7 | ESP transport and tunnel modes | [Watch on YouTube](https://youtu.be/E7WMo9eBnNU). |
 | M1-L8 | Combining security associations | [Watch on YouTube](https://youtu.be/zeORhDT_T-M). |
 | M1-L9 | Internet key exchange| [Watch on YouTube](https://youtu.be/sVNFeuQlocE). |
-| M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](). |
+| M1-L10 | Internet key exchange (continued)  | [Watch on YouTube](https://youtu.be/G4J4uRDvADo). |
   
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES CRYPTOGRAPHY & NETWORK SECURITY Semester VII | Course Code: BCS703 | Credits: 04
 
@@ -100,7 +100,7 @@ Found an error or want to suggest a topic or problem? Open an Issue or submit a 
 
 📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
 
-📢 Telegram: [https://web.telegram.org/a/#-1003930242341]
+📢 Telegram: [https://t.me/vtucreat]
 
 💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
 
